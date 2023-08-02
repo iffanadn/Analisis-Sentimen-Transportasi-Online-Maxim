@@ -1,1 +1,7 @@
 Dataset dibagi menjadi 4 yang dimana memudahkan dalam melanjutkan proses pada tiap bagian nya sehingga tidak harus memulai dari proses awal
+dataset 1 : hasil crawling
+dataset 2 : hasil translete
+dataset 3 : Hasil Preprocessing
+dataset 4 : Hasil Pelabelan data otomatis
+
+Note : dataset 3 & 4 memiliki size lebih dari 25 mb jadi tidak terupload.
